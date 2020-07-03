@@ -51,4 +51,3 @@ Route::post('belanja/beli','customerController@beliBarang')->name('beli');
 Route::get('/point','customerController@tampilPoint')->name('customer.point');
 
 
-
